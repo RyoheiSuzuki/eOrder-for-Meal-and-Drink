@@ -1,0 +1,15 @@
+D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\bin\Debug\eOrder_for_Meal_and_Drink.eOrder_for_Meal_and_Drink.apk
+D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\bin\Debug\eOrder_for_Meal_and_Drink.eOrder_for_Meal_and_Drink-Signed.apk
+D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\obj\Debug\eOrder for Meal and Drink.csproj.CoreCompileInputs.cache
+D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\obj\Debug\android\bin\eOrder_for_Meal_and_Drink.eOrder_for_Meal_and_Drink.apk
+D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\obj\Debug\res\layout\main.xml
+D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\obj\Debug\res\values\strings.xml
+D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\obj\Debug\res\drawable\icon.png
+D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\obj\Debug\R.cs.flag
+D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\obj\Debug\uploadflags.txt
+D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\bin\Debug\eOrder.dll
+D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\bin\Debug\eOrder.pdb
+D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\obj\Debug\eOrder.dll
+D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\obj\Debug\eOrder.pdb
+D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\bin\Debug\eOrder.dll.mdb
+D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\obj\Debug\android\assets\eOrder.dll.mdb

@@ -1,0 +1,4 @@
+eOrder_for_Meal_and_Drink.MainActivity, eOrder;md573fa6c4bd0a9195efe3837711b744f48.MainActivity
+eOrder_for_Meal_and_Drink.MainActivity, eOrder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md573fa6c4bd0a9195efe3837711b744f48.MainActivity
+eOrder_for_Meal_and_Drink.MainActivity;md573fa6c4bd0a9195efe3837711b744f48.MainActivity
+eorder_for_meal_and_drink.MainActivity;md573fa6c4bd0a9195efe3837711b744f48.MainActivity
