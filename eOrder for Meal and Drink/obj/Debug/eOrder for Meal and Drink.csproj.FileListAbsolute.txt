@@ -13,3 +13,19 @@ D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\obj\Debug\eOrder.d
 D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\obj\Debug\eOrder.pdb
 D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\bin\Debug\eOrder.dll.mdb
 D:\GitHub\eOrder-for-Meal-and-Drink\eOrder for Meal and Drink\obj\Debug\android\assets\eOrder.dll.mdb
+C:\Users\Ryohei\Documents\GitHub\eOrder\eOrder for Meal and Drink\bin\Debug\eOrder.dll
+C:\Users\Ryohei\Documents\GitHub\eOrder\eOrder for Meal and Drink\bin\Debug\eOrder.pdb
+C:\Users\Ryohei\Documents\GitHub\eOrder\eOrder for Meal and Drink\bin\Debug\eOrder_for_Meal_and_Drink.eOrder_for_Meal_and_Drink.apk
+C:\Users\Ryohei\Documents\GitHub\eOrder\eOrder for Meal and Drink\bin\Debug\eOrder_for_Meal_and_Drink.eOrder_for_Meal_and_Drink-Signed.apk
+C:\Users\Ryohei\Documents\GitHub\eOrder\eOrder for Meal and Drink\obj\Debug\eOrder for Meal and Drink.csprojResolveAssemblyReference.cache
+C:\Users\Ryohei\Documents\GitHub\eOrder\eOrder for Meal and Drink\obj\Debug\eOrder for Meal and Drink.csproj.CoreCompileInputs.cache
+C:\Users\Ryohei\Documents\GitHub\eOrder\eOrder for Meal and Drink\obj\Debug\eOrder.dll
+C:\Users\Ryohei\Documents\GitHub\eOrder\eOrder for Meal and Drink\obj\Debug\eOrder.pdb
+C:\Users\Ryohei\Documents\GitHub\eOrder\eOrder for Meal and Drink\obj\Debug\android\bin\eOrder_for_Meal_and_Drink.eOrder_for_Meal_and_Drink.apk
+C:\Users\Ryohei\Documents\GitHub\eOrder\eOrder for Meal and Drink\obj\Debug\res\layout\main.xml
+C:\Users\Ryohei\Documents\GitHub\eOrder\eOrder for Meal and Drink\obj\Debug\res\values\strings.xml
+C:\Users\Ryohei\Documents\GitHub\eOrder\eOrder for Meal and Drink\obj\Debug\res\drawable\icon.png
+C:\Users\Ryohei\Documents\GitHub\eOrder\eOrder for Meal and Drink\obj\Debug\R.cs.flag
+C:\Users\Ryohei\Documents\GitHub\eOrder\eOrder for Meal and Drink\obj\Debug\uploadflags.txt
+C:\Users\Ryohei\Documents\GitHub\eOrder\eOrder for Meal and Drink\bin\Debug\eOrder.dll.mdb
+C:\Users\Ryohei\Documents\GitHub\eOrder\eOrder for Meal and Drink\obj\Debug\android\assets\eOrder.dll.mdb
