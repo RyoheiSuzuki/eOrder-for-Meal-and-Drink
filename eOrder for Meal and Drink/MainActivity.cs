@@ -23,6 +23,13 @@ namespace eOrder_for_Meal_and_Drink
             // Set Top Image View
             var imageView = FindViewById<ImageView>(Resource.Id.ImageViewTop);
             imageView.SetImageResource(Resource.Drawable.pic_top);
+
+            // Popup Message
+            AlertDialog.Builder dialog = new AlertDialog.Builder(this);
+            AlertDialog alert = dialog.Create();
+            alert.SetTitle("Confirm");
+            alert.SetMessage("Is it your first time using?");
+            alert.SetButton("OK", (c, ev) => { });
         }
 
         public override bool OnCreateOptionsMenu(IMenu menu)
