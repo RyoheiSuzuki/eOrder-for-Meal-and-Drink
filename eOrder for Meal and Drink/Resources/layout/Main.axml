@@ -2,33 +2,50 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
-    <TextView
-        android:text="eOrder for Meal &amp; Drink"
-        android:textAppearance="?android:attr/textAppearanceLarge"
+    android:layout_height="match_parent"
+    android:fadeScrollbars="true"
+    android:overScrollMode="always"
+    android:scrollbarAlwaysDrawVerticalTrack="true"
+    android:scrollbars="vertical">
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar" />
+    <ImageView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/txtTitle" />
+        android:layout_height="80.0dp"
+        android:id="@+id/ImageViewTop"
+        android:src="@drawable/pic_top"
+        android:scaleType="fitXY"
+        android:layout_marginBottom="11.5dp" />
     <TextView
-        android:text="Select who you are"
+        android:text="Which one really matches you?"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:fontFamily="Meiryo UI"
         android:id="@+id/txtGuide" />
     <Button
-        android:text="Guests"
-        android:layout_width="match_parent"
+        android:text="Customer"
         android:layout_height="wrap_content"
-        android:id="@+id/btn_Guest"
-        android:layout_marginLeft="0.0dp" />
+        android:id="@+id/btn_Customer"
+        android:background="@drawable/style_button"
+        style="@style/button_text"
+        android:layout_width="match_parent"
+        android:layout_margin="15.0dp" />
     <Button
-        android:text="Worker"
+        android:text="Waiter"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/btn_Worker" />
+        android:id="@+id/btn_Waiter"
+        android:background="@drawable/style_button"
+        style="@style/button_text"
+        android:layout_margin="15.0dp" />
     <Button
         android:text="Owner"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/btn_Owner" />
+        android:id="@+id/btn_Owner"
+        android:background="@drawable/style_button"
+        style="@style/button_text"
+        android:layout_margin="15.0dp" />
 </LinearLayout>
